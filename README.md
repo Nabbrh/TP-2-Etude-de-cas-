@@ -5,7 +5,7 @@
 Reprise commentée de l'article *« Big data Analysis of Road Crash Data using PySpark with PySpark Tutorial »*
 (Rakesh Nain, Medium) : accidents de la route en Australie-Méridionale, 2012-2019.
 
-**Rendu : [`analyse_accidents_pyspark.ipynb`](analyse_accidents_pyspark.ipynb)**
+**Rendu : [`etude_de_cas.ipynb`](analyse_accidents_pyspark.ipynb)**
 
 Apports par rapport au code original :
 - explications des notions Spark (RDD, partitions, transformations/actions, jointures, UDF, Spark SQL) ;
